@@ -1,0 +1,2 @@
+# openWeatherAPI
+Script Ed Project
